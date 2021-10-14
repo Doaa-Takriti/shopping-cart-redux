@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "White tshirt",
+        "price": 100,
+        "rating": 4,
+        "image": "https://th.bing.com/th/id/R.467a240985442a8668155c475d1ebb16?rik=IrVuYDIDva3HHA&pid=ImgRaw&r=0",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 2,
+        "name": "grey tshirt",
+        "price": 1000,
+        "rating": 5,
+        "image": "https://th.bing.com/th/id/OIP.oPkZVAKrVoADivlDTNj2qAHaKv?pid=ImgDet&w=600&h=870&rs=1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 3,
+        "name": "White tshirt",
+        "price": 2000,
+        "rating": 4,
+        "image": "https://th.bing.com/th/id/OIP.d8xvcVuWx83a75y6k5lA4gHaKv?pid=ImgDet&w=600&h=870&rs=1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 4,
+        "name": "White tshirt",
+        "price": 150,
+        "rating": 5,
+        "image": "https://th.bing.com/th/id/R.63a6bfebce9bb848f91ea941a4ba9606?rik=Hi1dyK9rwIEZrw&pid=ImgRaw&r=0",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 5,
+        "name": "White tshirt",
+        "price": 100,
+        "rating": 4,
+        "image": "https://th.bing.com/th/id/R.6a462c11b62a92acc88243d0ef6cf754?rik=xoX6MTAHi4XIbA&riu=http%3a%2f%2fd3d71ba2asa5oz.cloudfront.net%2f52000443%2fimages%2f2900-royal-a.jpg&ehk=%2fJXljcyxJ%2bgATIBWpHxmH0SOvsCyKHgnPak2%2fpehm%2fc%3d&risl=&pid=ImgRaw&r=0",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 6,
+        "name": "grey tshirt",
+        "price": 1000,
+        "rating": 5,
+        "image": "https://th.bing.com/th/id/OIP.X0IAe6cTk3qVOlJKCZQeegHaLG?pid=ImgDet&rs=1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 7,
+        "name": "White tshirt",
+        "price": 2000,
+        "rating": 4,
+        "image": "https://th.bing.com/th/id/OIP.xXGA_-l39PYKv9pLbKHU3gHaJa?pid=ImgDet&w=1100&h=1398&rs=1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 8,
+        "name": "White tshirt",
+        "price": 150,
+        "rating": 5,
+        "image": "https://th.bing.com/th/id/OIP.y36JOnTYCJPIZqBsr9dbbAHaJa?pid=ImgDet&w=1100&h=1398&rs=1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+        "id": 9,
+        "name": "White tshirt",
+        "price": 150,
+        "rating": 5,
+        "image": "https://th.bing.com/th/id/OIP.YK_eIL8R4e9Capv6ADZDewHaJa?pid=ImgDet&rs=1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the\n          industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+]
